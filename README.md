@@ -30,7 +30,7 @@ This repository demonstrates how to build a Spring Boot application with a RESTf
 
 ### Prerequisites
 
-- JDK 11 or higher
+- JDK 11
 - Maven
 - Docker
 
